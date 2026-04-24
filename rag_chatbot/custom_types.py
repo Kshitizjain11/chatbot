@@ -11,7 +11,7 @@ class RAGUpsertResult(BaseModel):
 
 
 class RAGSearchResult(BaseModel):
-    context: list[str]
+    contexts: list[str]
     sources: list[str]
 
 
