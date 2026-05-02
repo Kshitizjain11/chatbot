@@ -9,7 +9,10 @@ dependencies = [
     "ipykernel>=7.2.0",
     "langchain>=1.2.17",
     "langchain-community>=0.4.1",
+    "langchain-experimental>=0.4.1",
     "langchain-groq>=1.1.2",
+    "langchain-neo4j>=0.9.0",
     "langgraph>=1.1.10",
     "neo4j>=6.1.0",
+    "python-dotenv>=1.2.2",
 ]
